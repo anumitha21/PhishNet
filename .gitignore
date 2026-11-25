@@ -1,0 +1,31 @@
+# Environment & Secrets
+.env
+.env.*
+!.env.example
+
+# Python cache & build
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Machine Learning Artifacts & Outputs
+Artifacts/
+logs/
+saved_models/
+prediction_output/
+valid_data/
+
+# IDEs & System
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
