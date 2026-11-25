@@ -323,5 +323,4 @@ Add the following secrets under **Repository -> Settings -> Secrets and variable
 
 ---
 
-## 📜 License
-This project is licensed under the MIT License.
+Made with Jingz
